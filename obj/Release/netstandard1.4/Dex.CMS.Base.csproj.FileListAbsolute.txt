@@ -1,0 +1,6 @@
+C:\Users\Cyricx\Documents\Applications2.0\DexCMS\Base\Dex.CMS.Base\bin\Release\netstandard1.4\Dex.CMS.Base.deps.json
+C:\Users\Cyricx\Documents\Applications2.0\DexCMS\Base\Dex.CMS.Base\obj\Release\netstandard1.4\Dex.CMS.Base.AssemblyInfo.cs
+C:\Users\Cyricx\Documents\Applications2.0\DexCMS\Base\Dex.CMS.Base\bin\Release\netstandard1.4\Dex.CMS.Base.dll
+C:\Users\Cyricx\Documents\Applications2.0\DexCMS\Base\Dex.CMS.Base\bin\Release\netstandard1.4\Dex.CMS.Base.pdb
+C:\Users\Cyricx\Documents\Applications2.0\DexCMS\Base\Dex.CMS.Base\obj\Release\netstandard1.4\Dex.CMS.Base.dll
+C:\Users\Cyricx\Documents\Applications2.0\DexCMS\Base\Dex.CMS.Base\obj\Release\netstandard1.4\Dex.CMS.Base.pdb

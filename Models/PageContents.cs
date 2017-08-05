@@ -39,7 +39,6 @@ namespace DexCMS.Base.Models
         public virtual ICollection<ContentBlocks> ContentBlocks { get; set; }
         public virtual ICollection<ContentScripts> ContentScripts { get; set; }
         public virtual ICollection<ContentStyles> ContentStyles { get; set; }
-        public virtual Events Events { get; set; }
         public virtual ICollection<PageContentImages> PageContentImages { get; set; }
         public virtual ICollection<PageContentPermissions> PageContentPermissions { get; set; }
         public virtual ICollection<PageContentRedirects> PageContentRedirects { get; set; }
